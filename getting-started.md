@@ -116,8 +116,9 @@ Om een aantal packages als libraries in een notebook te kunnen runnen moet je ee
 
 2. **Plaats daarin een Jupyter Notebook**
 
-    - Download het 'test-notebook.ipynb' bestand van deze GitHub repo.
-    - Zet dit .ipynb bestand in de folder die je in de vorige stap hebt aangemaakt.
+    - Download het 'test-notebook.ipynb' bestand van deze GitHub repo uit de map 'voorbeelden'..
+    - Download het 'test-data.csv' bestand van deze GitHub repo uit de map 'voorbeelden'..
+    - Zet beide bestanden in de folder die je in de vorige stap hebt aangemaakt.
 
 1. **Open de gemaakte map in je code editor**:
 
@@ -137,10 +138,13 @@ Om een aantal packages als libraries in een notebook te kunnen runnen moet je ee
 
 3. **Run je notebook om te testen of alles werkt!**
 
+In het notebook staan zelf ook wat instructies, maar in het kort:
+
 - Klik bovenin op 'run all' om alle cells in de notebook in z'n geheel te runnen.
 - Je kunt ook op het 'play icoontje' drukken bij individuele cellen om ze afzonderlijk van elkaar te runnen.
 
 Als het goed is krijg je nu de output van de 'cells' te zien. Zo ja, dan is de installatie helemaal goed gegaan. 
+
 Krijg je errors? Lees goed wat er staat in de error en google die. 
 Of doe met terugwerkende kracht delen van deze installatie gids. Misschien heb je per ongeluk een stap overgeslagen.
 
